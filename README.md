@@ -37,10 +37,3 @@ The **Fast Fourier Transform (FFT)** is a powerful tool for analyzing the freque
    - You can also visualize the decomposed components by reconstructing the signal using specific frequency components.
    - For example, you can filter out specific frequencies to isolate long-term trends or short-term fluctuations.
 
-Remember that the FFT provides insights into the periodic behavior of stock movements, but it's essential to combine this analysis with other fundamental and technical indicators for a comprehensive view. 📈🔍
-
-Source: Conversation with Bing, 4/22/2024
-(1) Handling Stock Data using the Fast Fourier Transform - Medium. https://medium.com/intuition/quantamental-approach-to-stock-trading-using-the-fourier-analysis-58f64792290.
-(2) Fast Fourier Transform in Predicting Financial Securities Prices .... https://www.math.utah.edu/~gustafso/s2016/2270/published-projects-2016/williamsBarrett/williamsBarrett-Fast-Fourier-Transform-Predicting-Financial-Securities-Prices.pdf.
-(3) Interpritation of DFT/FFT results - University of California, Berkeley. https://w.astro.berkeley.edu/~jrg/ngst/fft/results.html.
-(4) How to interpret output of FFT and extract frequency information. https://stackoverflow.com/questions/21977748/how-to-interpret-output-of-fft-and-extract-frequency-information.
